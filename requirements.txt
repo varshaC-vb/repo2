@@ -1,2 +1,4 @@
 This is chatting App
 should have emojis
+dark mode added
+video call option

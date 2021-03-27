@@ -1,0 +1,2 @@
+This is chatting App
+should have emojis
